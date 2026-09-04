@@ -20,7 +20,7 @@ export default function Forever() {
           And so, our forever begins
         </h2>
         <div className="mt-4.5 text-[13px] tracking-[3px] uppercase opacity-90">
-          November 12, 2024
+          June 17, 2022
         </div>
         <div className="mt-3.5 font-script italic text-2xl text-gold-light">
           Divya ♥ Vivek
